@@ -1,0 +1,8 @@
+SIMULATED APPLICATION INVENTORY
+
+1. Test Messenger
+2. Test Payment App
+3. Test File Manager
+4. Test Browser
+
+All applications are fictional/simulated.

@@ -1,0 +1,8 @@
+CASE ID: OPS-PS-2026-001
+EVIDENCE ID: E-002
+DEVICE TYPE: Simulated Mobile Phone
+DEVICE ID: PHONE-TEST-001
+STATUS: Seized
+
+NOTE:
+This is synthetic evidence created for academic purposes.

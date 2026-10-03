@@ -1,0 +1,9 @@
+DEVICE CONFIGURATION
+
+Device ID: SKIM-TEST-001
+Mode: SIMULATION
+Storage: TEST_STORAGE
+Logging: ENABLED
+Network: DISABLED
+
+This configuration is synthetic and created only for academic investigation.

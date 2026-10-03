@@ -1,0 +1,14 @@
+SIMULATED TRANSACTION RECORD
+
+Case ID: OPS-PS-2026-001
+
+Transaction ID: TEST-TXN-001
+
+Amount: INR 100
+
+Status: SIMULATION ONLY
+
+Purpose:
+Academic Digital Forensics Assignment
+
+No real financial information is contained in this file.

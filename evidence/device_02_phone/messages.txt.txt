@@ -1,0 +1,14 @@
+SIMULATED MESSAGE LOG
+
+2026-08-11 20:14
+FROM: TEST_ACTOR_A
+TO: TEST_ACTOR_B
+MESSAGE: The test device is ready for collection.
+
+2026-08-11 21:05
+FROM: TEST_ACTOR_B
+TO: TEST_ACTOR_A
+MESSAGE: Move the test package after 22:00.
+
+NOTE:
+All persons, messages and events are fictional.

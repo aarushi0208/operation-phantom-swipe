@@ -1,0 +1,7 @@
+SIMULATED GPS DATA
+
+Timestamp: 2026-08-11 22:14:10
+Latitude: 28.5921
+Longitude: 77.0460
+
+Label: SYNTHETIC TEST LOCATION

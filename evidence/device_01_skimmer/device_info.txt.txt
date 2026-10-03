@@ -1,0 +1,9 @@
+CASE ID: OPS-PS-2026-001
+EVIDENCE ID: E-001
+DEVICE TYPE: Simulated ATM Skimmer
+DEVICE SERIAL: SKIM-TEST-001
+STATUS: Seized
+PURPOSE: Academic Digital Forensics Simulation
+
+NOTE:
+This is completely synthetic evidence created for educational purposes.

@@ -1,0 +1,9 @@
+evidence\device_01_skimmer\config.txt.txt | SHA-256 | 735619b2b7f16fb841dacde3052d3ae5d9c35403f34c72817319b563649f2187
+evidence\device_01_skimmer\device_info.txt.txt | SHA-256 | 923ed05d442c996dd0cd64b5f36a9efd32745a3a43a1686b435eb52abd9b5166
+evidence\device_01_skimmer\logs.txt.txt | SHA-256 | acca6cd148a2a12358e4e7b68b46165995f8d2a455bc532b55becfa7b6e48962
+evidence\device_02_phone\apps.txt.txt | SHA-256 | 2680bf082d780d8c805199525268dd43812ebd3f54f83178519184884ec82e25
+evidence\device_02_phone\browser_history.txt.txt | SHA-256 | 916e83f0b0883f5c8bcfe26c00708384565b7a0a3463ab4ed26cbef63059f4ec
+evidence\device_02_phone\device_info.txt.txt | SHA-256 | 492a9eb6ef4579bff8855a3ce8b3efae9e8be983106e42cf3f12c3be56f125c8
+evidence\device_02_phone\email.txt.txt | SHA-256 | 9ba1b9c359d335142fc1927f7068d3c755a1e63fbc50f8a3f5c0c0978dadc82f
+evidence\device_02_phone\gps.txt.txt | SHA-256 | 9c1494b4b0aa8793f8fd4e87046447a11cf7cb9a614cd6d34a419e11ccc01054
+evidence\device_02_phone\messages.txt.txt | SHA-256 | 20181a444962268b4f41261b1310e641ec8e88c51d9d53b53f6ebae41314b6d1

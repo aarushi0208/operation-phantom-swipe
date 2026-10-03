@@ -1,0 +1,6 @@
+Artifact ID,Artifact Type,Source,Finding,Relevance
+A001,Card Reference,logs.txt.txt,TESTCARD001,Simulated card-data collection
+A002,Communication,messages.txt,Test device collection message,Simulated communication evidence
+A003,GPS,gps.txt,28.5921 77.0460,Synthetic location evidence
+A004,Application,apps.txt,Test Payment App,Simulated application evidence
+A005,Email,email.txt,Test Transaction,Simulated financial communication

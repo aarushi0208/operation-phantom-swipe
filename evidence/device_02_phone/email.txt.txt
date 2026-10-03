@@ -1,0 +1,12 @@
+SIMULATED EMAIL
+
+From: actorA@example.test
+To: actorB@example.test
+Date: 2026-08-11
+Subject: Test Transaction
+
+Message:
+The simulated transaction records are ready for analysis.
+
+NOTE:
+This email is completely fictional.

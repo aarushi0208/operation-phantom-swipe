@@ -1,0 +1,5 @@
+SIMULATED BROWSER HISTORY
+
+2026-08-11 18:15 | https://example.test/login
+2026-08-11 18:20 | https://example.test/payment
+2026-08-11 18:25 | https://example.test/account
